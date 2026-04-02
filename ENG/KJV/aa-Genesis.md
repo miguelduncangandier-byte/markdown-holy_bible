@@ -66,7 +66,7 @@
 
 [^1]: [Job 38:4](Job£)
 [^2]:
-[]
+[^3]:
 ## Genesis Chapter 2
 
 1 Thus the heavens and the earth were finished, and all the host of them.
