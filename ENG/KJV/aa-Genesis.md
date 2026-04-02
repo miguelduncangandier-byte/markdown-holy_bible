@@ -1,16 +1,18 @@
 # The Book of Genesis
 ## Genesis Chapter 1
+### The Beginning
+
 1 In the beginning[^1], God created heaven and the earth
 
 2 And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
 
-3 And God said, Let there be light: and there was light.
+3 And God said, Let there be light[^2]: and there was light.
 
 4 And God saw the light, that it was good: and God divided the light from the darkness.
 
 5 And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
 
-6 And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
+6 And God said[^3], Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
 
 7 And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.
 
@@ -63,7 +65,8 @@
 31 And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.
 
 [^1]: [Job 38:4](Job£)
-
+[^2]:
+[]
 ## Genesis Chapter 2
 
 1 Thus the heavens and the earth were finished, and all the host of them.
