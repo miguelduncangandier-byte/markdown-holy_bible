@@ -1,5 +1,4 @@
 # Holy Bible in Markdown
-# 🚀 Project Title
 
 ## Overview
 When I first came into Github, I had an idea of putting the Holy Bible in a place where people can easily read it and use it in many projects for the Lord. 
